@@ -1,0 +1,32 @@
+.countHandler {
+  display: flexbox;
+}
+.countHandler input {
+  width: 5%;
+  border: 0;
+}
+
+.countHandler button {
+  height: 5%;
+}
+.card {
+  padding: 0 20px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+.cardimage {
+  display: flex;
+  width: 40%;
+  height: 200px;
+}
+.desc {
+  width: 60%;
+  padding: 10px 0 0 20px;
+}
+img {
+  width: 100%;
+  object-fit: fill;
+}
